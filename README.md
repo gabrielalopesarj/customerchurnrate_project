@@ -19,7 +19,7 @@ O estudo utiliza um conjunto de dados fictício de uma empresa de telecomunicaç
 ---
 
 ## Conceito de Churn Rate
-**Churn rate (taxa de cancelamento)** é a métrica que indica a porcentagem de clientes que deixam de utilizar os produtos ou serviços de uma empresa em um determinado período.  
+Churn rate (taxa de cancelamento) é a métrica que indica a porcentagem de clientes que deixam de utilizar os produtos ou serviços de uma empresa em um determinado período.  
 Essa métrica é especialmente relevante para negócios por assinatura, pois impacta diretamente a retenção de clientes, a previsibilidade de receita e o crescimento sustentável do negócio.
 ---
 
