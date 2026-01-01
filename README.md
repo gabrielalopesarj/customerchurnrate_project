@@ -42,7 +42,7 @@ Essa métrica é especialmente relevante para negócios por assinatura, pois imp
 
 ---
 
-## 📈 Principais Insights
+## Principais Insights
 - Clientes com contratos mensais apresentam taxas de cancelamento significativamente maiores do que contratos anuais
 - Motivos relacionados à concorrência representam a maior parcela dos cancelamentos
 - Determinados perfis demográficos apresentam maior propensão ao cancelamento
@@ -74,7 +74,7 @@ As páginas do PDF correspondem aos dashboards desenvolvidos no Power BI.
 
 ---
 
-## 📌 Considerações Finais
+## Considerações Finais
 Este projeto tem caráter demonstrativo, com foco em análise de dados, construção de métricas e comunicação visual. 
 Os dados utilizados não representam uma empresa real e foram aplicados exclusivamente para fins de aprendizado e portfólio. 
 O projeto foi realizado através da plataforma educacional Datacamp.
